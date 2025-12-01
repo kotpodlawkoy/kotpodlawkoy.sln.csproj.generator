@@ -1,4 +1,4 @@
-#Description
+# Description
 
 This is a fork of official **Unity Visual Studio Code extension**, that allow to generate solution (**.sln**) and project (**.csproj**) files **WITHOUT** VS Code enabled as external script editor in Unity preferences.
 
