@@ -1,0 +1,13 @@
+{
+  "name": "kotpodlawkoy.sln.csproj.generator",
+  "displayName": "kot_pod_lawkoy's solution and project files generator extension (without VS Code enabling)",
+  "description": "It is fork of official vs code extension (v1.2.3), which allows generate sln and csproj without necessity of enabling vscode as external tool in preference settings.",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "unityRelease": "0a12",
+  "dependencies": {},
+  "author": {
+    "name": "kotpodlawkoy",
+    "url": "https://github.com/kotpodlawkoy"
+  }
+}
