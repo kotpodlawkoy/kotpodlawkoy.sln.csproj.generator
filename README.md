@@ -16,3 +16,11 @@ You must add following lines in your .../ProjectName/Packages/manifest.json
   }
 ```
 Yes, you have to do this everytime you create new project, but it isn't so bad, _I think_
+
+# Usage
+
+Tools -> kot_pod_lawkoy | Generate -> ...
+
+Setting are available in:
+* Latter menu by pressing "Settings"
+* Or Edit -> Preferences -> kot_pod_lawkoy | .sln Generator (button **"Generate .csproj"** does the same thing as **Tools -> kot_pod_lawkoy | Generate -> Generate**)
