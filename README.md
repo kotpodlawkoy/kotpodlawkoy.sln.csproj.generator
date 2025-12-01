@@ -14,4 +14,5 @@ You must add following lines in your .../ProjectName/Packages/manifest.json
 +   "kotpodlawkoy.sln.csproj.generator": "https://github.com/kotpodlawkoy/kotpodlawkoy.sln.csproj.generator.git#next/master",
     ...
   }
+```
 Yes, you have to do this everytime you create new project, but it isn't so bad, _I think_
