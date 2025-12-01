@@ -19,8 +19,8 @@ Yes, you have to do this everytime you create new project, but it isn't so bad, 
 
 # Usage
 
-All of functionality are in Tools -> kot_pod_lawkoy | Generate -> ...
+All of functionality are in **Tools -> kot_pod_lawkoy | Generate -> ...**
 
-Settings are available in:
-* Latter menu by pressing "Settings"
+**Settings** are available in:
+* Latter menu by pressing **"Settings"**
 * Or Edit -> Preferences -> kot_pod_lawkoy | .sln Generator (button **"Generate .csproj"** does the same thing as **Tools -> kot_pod_lawkoy | Generate -> Generate**)
