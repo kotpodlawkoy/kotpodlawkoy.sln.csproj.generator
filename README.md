@@ -4,7 +4,7 @@ This is a fork of official **Unity Visual Studio Code extension v1.2.3**, that a
 
 This extension do **NOT** generate new **.slnx** solution file format, so it can solve problem of lacking of support .slnx files in vary IDE (such as Vim with using OmniSharp-Roslyn plugin)
 
-#Installation
+# Installation
 
 You must add following lines in your .../ProjectName/Packages/manifest.json
 
